@@ -1,0 +1,29 @@
+/* body {
+	text-align: center;
+} */
+
+#hero {
+	background-color: rgba(255, 255, 255, 0.698);
+	background-image: url('img/bg1.jpg');
+	background-position: center;
+	background-size: cover;
+	background-blend-mode: color-burn;
+	height: 100vh;
+	width: 100vw;
+}
+
+#skills {
+	background-color: rgba(255, 255, 255, 0.698);
+	background-image: url('img/bg2.jpeg');
+	background-position: center;
+	background-size: cover;
+	background-blend-mode: color-burn;
+}
+
+.bgFade {
+	background-color: rgba(0, 0, 0, 0.263);
+}
+
+#mottoPic {
+	display: none;
+}
